@@ -9,17 +9,17 @@ sidebar:
     # Profile information
     name: Arpan Nagar
     tagline: Undergraduate Student | Software Engineer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: arpunagar@gmail.com
     phone: +91 8104115671
     website: arpunagar.github.io #do not add http://
-    linkedin: arpu-nagar
-    xing: alandoe
+    linkedin: arpan-nagar-231815152
+    xing: 
     github: arpu-nagar
     telegram: # add your nickname without '@' sign
-    gitlab:
+    gitlab: arpan-nagar
     bitbucket:
     twitter: '@arpunagar'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -51,8 +51,8 @@ sidebar:
 career-profile:
     title: About me
     summary: |
-      I'm a 4th year undergraduate at MIT, Manipal studying Computer Science. My main academic research focus lies in the world of algorithms, particularly its uses in Finance and Trading.
-      I've interned at Standard Chartered Bank and Forty4Hz as a Software Developer. I also enjoy competitive programming. You can find me as arpunagar on Codeforces and Codechef.
+      I'm a 4th year undergraduate at <a href="https://www.manipal.edu">MIT, Manipal</a> studying Computer Science. My main academic research focus lies in the world of <strong>algorithms</strong>, particularly its uses in <strong>Finance and Trading</strong>.
+      I've interned at Standard Chartered Bank and Forty4Hz as a Software Developer. I also enjoy competitive programming. You can find me as <em><strong>arpunagar</strong></em> on Codeforces and Codechef.
 education:
     - degree: BTech in Computer Science
       university: Manipal Institute of Technology, Manipal
@@ -99,67 +99,63 @@ projects:
     assignments:
       - title: Vaccine Notifier
         link: "https://getmyvaccine.in/"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Developed a website that emailed verified registered users whenever a slot for vaccination opened up in their vicinity. The website got over 3000 registrations and got featured on media outlets like Business Insider and NDTV."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Zilla
+        link: "https://github.com/arpu-nagar/Zilla"
+        tagline: "Zilla is essentially a bug tracking and agile project management tool for your technical team or group project. Team Members can track feature development, log bugs, and change the work cycle accourdingly."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Hunlu
+        link: "https://github.com/arpu-nagar/Hunlu"
+        tagline: "A Netflix-like video-on-demand service where users can choose from various packages, pay, and stream videos. Users could like or dislike and choose favorite videos, and recommendations based on their choices."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Age of Coders
+        link: "https://aoc.iecsemanipal.com/"
+        tagline: "Age of Coders is an offline competitive coding bot where your answer will be evaluated against the given answers to a set of questions. Equipped with a real-time leader board with dynamic scoring."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: C++
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: JAVA 
+        level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: React.JS
+        level: -80%
+
+      - name: Node.JS
+        level: 80%
+
+      - name: Python
+        level: 75%
+
+      - name: Machine Learning
+        level: 70%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="https://arpu-nagar.github.io" target="_blank" rel="nofollow">Arpan Nagar</a>
