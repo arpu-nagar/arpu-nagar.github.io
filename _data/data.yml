@@ -1,0 +1,165 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Arpan Nagar
+    tagline: Undergraduate Student | Software Engineer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: arpunagar@gmail.com
+    phone: +91 8104115671
+    website: arpunagar.github.io #do not add http://
+    linkedin: arpu-nagar
+    xing: alandoe
+    github: arpu-nagar
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@arpunagar'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf:
+
+    languages:
+      - idiom: English
+        level: Professional
+
+      - idiom: Hindi
+        level: Native
+
+
+    interests:
+      - item: Algorithms
+        link:
+
+      - item: Reading
+        link:
+
+      - item: Coffee
+        link:
+      
+      - item: CSGO
+        link: 
+
+career-profile:
+    title: About me
+    summary: |
+      I'm a 4th year undergraduate at MIT, Manipal studying Computer Science. My main academic research focus lies in the world of algorithms, particularly its uses in Finance and Trading.
+      I've interned at Standard Chartered Bank and Forty4Hz as a Software Developer. I also enjoy competitive programming. You can find me as arpunagar on Codeforces and Codechef.
+education:
+    - degree: BTech in Computer Science
+      university: Manipal Institute of Technology, Manipal
+      time: 2018 - 2022
+      details: |
+        CGPA : 7.8/10
+experiences:
+    - role: Summer Analyst
+      time: May 2021 - July 2021
+      company: Standard Chartered Bank
+      details: |
+        Worked in the Enterprise Technology (aXess Labs) Team. Technology Stack: MongoDB, JavaScript(React.JS), Python, Flask, Sklearn, AWS Lex
+          - Created a web app from scratch that visualizes customer bank statements: generated insights on customer spending and customer credit.
+          - Pushed various bank products based on the above insight. The app also had a chatbot to answer basic customer queries.
+          - Worked on a prototype model that predicted user expenditure/credit.
+    - role: Frontend Intern
+      time: Jan 2021 - June 2021
+      company: Forty4Hz
+      details: |
+        I worked part time, in this pre-seed startup. The company was founded by 2 graduates of my university.
+          - Worked on INSIA, a self-service business intelligence platform.
+          - Built an administrative portal to manage Platform Settings, Role-Based Access Control, User and Group Management Settings
+          - Built UI to upload client data in the form of Excel, CSV, and SQL which is to be used by a set of Machine Learning Engines
+leadership:
+    - role: Core Committee
+      time: 2019 - 2021
+      company: System Admin and Web Development
+      details: |
+        I worked as a System Admin for the national level college festivals of MIT, Manipal. I was responsible for the following:
+          - Create and manage web applications for coordinators and administration of the events.
+          - Managed a database of over 5,000 users and transactions worth Rs. 5 Lakhs.
+          - Lead a team of 16 developers and guided them on back-end development. 
+    - role: Managing Committee
+      time: 2018 - 2020
+      company: IECSE
+      details: |
+        I worked as a System Admin for the national level college festivals of MIT, Manipal. I was responsible for the following:
+          - As a part of the largest club in college, I worked with a team of 40 dedicated members to spread applied CS knowledge.
+          - Conducted workshops on Web Development and Competitive Programming as well as mentored juniors in these fields. 
+projects:
+    title: Projects
+    intro: >
+      Working on projects, seeing them thorough, and sharing them with the world is my work philosopy. You can check out their souce code on my <a href="https://github.com/arpu-nagar">Github</a>.
+    assignments:
+      - title: Vaccine Notifier
+        link: "https://getmyvaccine.in/"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python & Django
+        level: 98%
+
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
