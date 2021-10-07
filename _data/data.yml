@@ -52,13 +52,13 @@ career-profile:
     title: About me
     summary: |
       I'm a 4th year undergraduate at <a href="https://www.manipal.edu">MIT, Manipal</a> studying Computer Science. My main academic research focus lies in the world of <strong>algorithms</strong>, particularly its uses in <strong>Finance and Trading</strong>.
-      I've interned at Standard Chartered Bank and Forty4Hz as a Software Developer. I also enjoy competitive programming. You can find me as <em><strong>arpunagar</strong></em> on Codeforces and Codechef.
+      I've interned at Standard Chartered Bank and Forty4Hz as a Software Developer. I was also a System Admin and worked for Techtatva and Revels, the national level technical and cultural fests of MIT, Manipal. I also enjoy competitive programming. You can find me as <em><strong>arpunagar</strong></em> on Codeforces and Codechef.
 education:
     - degree: BTech in Computer Science
       university: Manipal Institute of Technology, Manipal
       time: 2018 - 2022
       details: |
-        CGPA : 7.8/10
+        CGPA : 8/10
 experiences:
     - role: Summer Analyst
       time: May 2021 - July 2021
@@ -67,7 +67,7 @@ experiences:
         Worked in the Enterprise Technology (aXess Labs) Team. Technology Stack: MongoDB, JavaScript(React.JS), Python, Flask, Sklearn, AWS Lex
           - Created a web app from scratch that visualizes customer bank statements: generated insights on customer spending and customer credit.
           - Pushed various bank products based on the above insight. The app also had a chatbot to answer basic customer queries.
-          - Worked on a prototype model that predicted user expenditure/credit.
+          - Worked on a prototype model that predicted user expenditure/credit using Support Vector Machine, Random Forests and XGBoost.
     - role: Frontend Intern
       time: Jan 2021 - June 2021
       company: Forty4Hz
@@ -83,8 +83,8 @@ leadership:
       details: |
         I worked as a System Admin for the national level college festivals of MIT, Manipal. I was responsible for the following:
           - Create and manage web applications for coordinators and administration of the events.
-          - Managed a database of over 5,000 users and transactions worth Rs. 5 Lakhs.
-          - Lead a team of 16 developers and guided them on back-end development. 
+          - Managed a database of over 10,000 users and transactions worth Rs. 1,000,000.
+          - Lead a team of 16 developers and guided them on full-stack development. 
     - role: Managing Committee
       time: 2018 - 2020
       company: IECSE
