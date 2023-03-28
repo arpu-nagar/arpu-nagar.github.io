@@ -8,12 +8,12 @@ sidebar:
 
     # Profile information
     name: Arpan Nagar
-    tagline: Undergraduate Student | Software Engineer
+    tagline: Software Engineer
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: arpunagar@gmail.com
-    phone: +91 8104115671
+    phone: 
     website: arpunagar.github.io #do not add http://
     linkedin: arpan-nagar-231815152
     xing: 
@@ -36,30 +36,47 @@ sidebar:
 
 
     interests:
-      - item: Algorithms
+      - item: algorithms
         link:
 
-      - item: Reading
+      - item: web-tinkering
+        link: 
+
+      - item: reading
         link:
 
       - item: Coffee
         link:
       
-      - item: CSGO
+      - item: Bagpacking
         link: 
 
 career-profile:
     title: About me
     summary: |
-      I'm a 4th year undergraduate at <a href="https://www.manipal.edu">MIT, Manipal</a> studying Computer Science. My main academic research focus lies in the world of <strong>algorithms</strong>, particularly its uses in <strong>Finance and Trading</strong>.
-      I've interned at Standard Chartered Bank and Forty4Hz as a Software Developer. I was also a System Admin and worked for Techtatva and Revels, the national level technical and cultural fests of MIT, Manipal. I also enjoy competitive programming. You can find me as <em><strong>arpunagar</strong></em> on Codeforces and Codechef.
+      I'm currently a Software Engineer at Oracle working on creating the <a href="https://www.oracle.com/in/industries/construction-engineering/smart-construction-platform/">Smart Construction Platform</a>. Prior to Oracle, I interned at <a href="https://www.sc.com/">Standard Chartered Bank</a> and <a href="https://forty4hz.com/">Forty4Hz</a>.
+      I've always been into building, enhancing and scaling software and websites.
+      In May 2021, I launched <a href="www.getmyvaccine.in">getmyvaccine.in</a> that helped 100,000+ people to get COVID vaccine appointments.
+      In August 2020, I created my own video-on-demand service. You can find the source code: <a href="https://github.com/arpu-nagar/Hunlu">here</a>.
+      I graduated from <a href="https://www.manipal.edu">MIT, Manipal</a> with a degree in Computer Science. 
 education:
     - degree: BTech in Computer Science
       university: Manipal Institute of Technology, Manipal
       time: 2018 - 2022
       details: |
-        CGPA : 8/10
+        GPA : 8/10
 experiences:
+    - role: Software Engineer
+      time: Aug 2022 - Present
+      company: Oracle
+      details: |
+          - Responsible for transitioning old code from JSP to JS/TS.
+    - role: Project Intern
+      time: Jan 2022 - July 2022
+      company: Oracle
+      details: |
+          - Created a logging-based change data capture stream for Oracle Database with Debezium, eliminating hourly database query jobs. 
+          - Worked on a Proof of Concept for the Marketing Team, reducing product demonstration time by 80%. Tech Exposure: Flask, Kafka, Zookeeper, Debezium, SQL and Nginx.
     - role: Summer Analyst
       time: May 2021 - July 2021
       company: Standard Chartered Bank
@@ -103,7 +120,7 @@ projects:
 
       - title: Zilla
         link: "https://github.com/arpu-nagar/Zilla"
-        tagline: "Zilla is essentially a bug tracking and agile project management tool for your technical team or group project. Team Members can track feature development, log bugs, and change the work cycle accourdingly."
+        tagline: "JIRA but simplified. Zilla is essentially a bug tracking and agile project management tool for your technical team or group project. Team Members can track feature development, log bugs, and change the work cycle accourdingly."
 
       - title: Hunlu
         link: "https://github.com/arpu-nagar/Hunlu"
