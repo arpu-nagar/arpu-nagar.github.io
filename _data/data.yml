@@ -54,7 +54,7 @@ sidebar:
 career-profile:
     title: About me
     summary: |
-      I'm currently a Software Engineer at Oracle working on creating the <a href="https://www.oracle.com/construction-engineering/construction-intelligence-cloud/">Construction Intelligence Cloud.</a>. 
+      I'm currently a Software Engineer at Oracle working on creating the <a href="https://www.oracle.com/construction-engineering/construction-intelligence-cloud/">Construction Intelligence Cloud</a>. 
       My work involves JS libraries like Oracle JET and low code platforms like Oracle APEX to create UI. I've also worked in Backend and API development for the same product in Flask and later NodeJS. 
       Prior to Oracle, I interned at <a href="https://www.sc.com/">Standard Chartered Bank</a> and <a href="https://forty4hz.com/">Forty4Hz</a>.
       My love for development comes from a vision to research, setup and see through projects to completion.
