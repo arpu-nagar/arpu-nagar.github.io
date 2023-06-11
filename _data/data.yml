@@ -45,20 +45,22 @@ sidebar:
       - item: reading
         link:
 
-      - item: Coffee
+      - item: coffee
         link:
       
-      - item: Bagpacking
+      - item: bagpacking
         link: 
 
 career-profile:
     title: About me
     summary: |
-      I'm currently a Software Engineer at Oracle working on creating the <a href="https://www.oracle.com/in/industries/construction-engineering/smart-construction-platform/">Smart Construction Platform</a>. Prior to Oracle, I interned at <a href="https://www.sc.com/">Standard Chartered Bank</a> and <a href="https://forty4hz.com/">Forty4Hz</a>.
-      I've always been into building, enhancing and scaling software and websites.
-      In May 2021, I launched <a href="www.getmyvaccine.in">getmyvaccine.in</a> that helped 100,000+ people to get COVID vaccine appointments.
+      I'm currently a Software Engineer at Oracle working on creating the <a href="https://www.oracle.com/construction-engineering/construction-intelligence-cloud/">Construction Intelligence Cloud.</a>. 
+      My work involves JS libraries like Oracle JET and low code platforms like Oracle APEX to create UI. I've also worked in Backend and API development for the same product in Flask and later NodeJS. 
+      Prior to Oracle, I interned at <a href="https://www.sc.com/">Standard Chartered Bank</a> and <a href="https://forty4hz.com/">Forty4Hz</a>.
+      My love for development comes from a vision to research, setup and see through projects to completion.
+      In May 2021, I launched <a href="www.getmyvaccine.in">getmyvaccine.in</a> that helped 10,000+ people to get COVID vaccine appointments.
       In August 2020, I created my own video-on-demand service. You can find the source code: <a href="https://github.com/arpu-nagar/Hunlu">here</a>.
-      I graduated from <a href="https://www.manipal.edu">MIT, Manipal</a> with a degree in Computer Science. 
+      
 education:
     - degree: BTech in Computer Science
       university: Manipal Institute of Technology, Manipal
@@ -71,6 +73,8 @@ experiences:
       company: Oracle
       details: |
           - Responsible for transitioning old code from JSP to JS/TS.
+          - Created a page to show reports, charts and manage the ML model being used for prediction in specific projects.
+          - Created a new User Management page to change roles, groups, user priviledges and access.
     - role: Project Intern
       time: Jan 2022 - July 2022
       company: Oracle
