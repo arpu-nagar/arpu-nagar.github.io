@@ -54,14 +54,19 @@ sidebar:
 career-profile:
     title: About me
     summary: |
-      I'm currently a Software Engineer at Oracle working on creating the <a href="https://www.oracle.com/construction-engineering/construction-intelligence-cloud/">Construction Intelligence Cloud</a>. 
+      I'm a current graduate student at the University of Florida, pursuing a Master's degree in Computer Science. My coursework is focused on exploring Intelligent and Distributed Systems, as well as Data Structures.
+      Previously, I was a Software Engineer at Oracle working on creating the <a href="https://www.oracle.com/construction-engineering/construction-intelligence-cloud/">Construction Intelligence Cloud</a>. 
       My work involves JS libraries like Oracle JET and low code platforms like Oracle APEX to create UI. I've also worked in Backend and API development for the same product in Flask and later NodeJS. 
       Prior to Oracle, I interned at <a href="https://www.sc.com/">Standard Chartered Bank</a> and <a href="https://forty4hz.com/">Forty4Hz</a>.
       My love for development comes from a vision to research, setup and see through projects to completion.
       In May 2021, I launched <a href="www.getmyvaccine.in">getmyvaccine.in</a> that helped 10,000+ people to get COVID vaccine appointments.
       In August 2020, I created my own video-on-demand service. You can find the source code: <a href="https://github.com/arpu-nagar/Hunlu">here</a>.
-      
 education:
+    - degree: MS in Computer Science
+      university: University of Florida
+      time: 2023 - 2025
+      details: |
+        First Semester
     - degree: BTech in Computer Science
       university: Manipal Institute of Technology, Manipal
       time: 2018 - 2022

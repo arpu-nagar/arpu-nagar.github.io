@@ -6,8 +6,8 @@ url: 'http://arpu-nagar.github.com/'
 baseurl: '' #change it according to your repository name
 description: Arpan Nagar's homepage on the internet.
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: turquoise
-chrome_mobile_color: #1976d2
+theme_skin: blue
+chrome_mobile_color: #0774e0
 
 # Tracker
 analytics: G-JJRHEFD3HS
