@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://arpu-nagar.github.io/sitemap.xml
+Sitemap: https://arpannagar.tech/sitemap.xml
