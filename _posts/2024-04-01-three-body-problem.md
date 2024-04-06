@@ -2,7 +2,7 @@
 layout: post
 title: The Three Body Problem
 date: 2024-04-01 23:14:00
-description: Summary of the book, "The Three-Body Problem" by Cixin Liu. A first contact book like no other, filled with elements of science, mystery and culture fued.
+description: Mysterious deaths\, virtual reality game\, alien contact\, hindered science\, looming invasion\, physics.
 tags: three body problem aliens summary book sophons wang miao scientist trisolaris scifi
 categories: books
 thumbnail: https://www.arpannagar.tech/assets/img/3body/pyramid.png
