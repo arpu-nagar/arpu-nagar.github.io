@@ -2,7 +2,7 @@
 layout: post
 title: The Three Body Problem
 date: 2024-04-01 23:14:00
-description: Mysterious deaths\, virtual reality game\, alien contact\, hindered science\, looming invasion\, physics.
+description: The first book of its trilogy The Three-Body Problem spans past to future following alien contact and a looming invasion.
 tags: three body problem aliens summary book sophons wang miao scientist trisolaris scifi
 categories: books
 thumbnail: https://www.arpannagar.tech/assets/img/3body/pyramid.png
