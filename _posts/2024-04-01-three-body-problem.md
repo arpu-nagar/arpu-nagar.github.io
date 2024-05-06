@@ -9,7 +9,6 @@ thumbnail: https://www.arpannagar.tech/assets/img/3body/pyramid.png
 og_image: https://www.arpannagar.tech/assets/img/3body/pyramid.png
 ---
 
-
 <img src="/assets/img/3body/cover.png" alt="3body" style="width:47rem;"/>
 <br>
 

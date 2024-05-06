@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
-nav_order: 3
-display_categories: [work, fun]
+description: My philosophy of work centers on the development of core ideas and their transformation into tangible, real-world applications.
+nav: true
+nav_order: 2
+display_categories: [research, tech]
 horizontal: false
 ---
 
@@ -22,18 +22,18 @@ horizontal: false
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
   <div class="container">
-    <div class="row row-cols-2">
+    <div class="row row-cols-1">
     {% for project in sorted_projects %}
       {% include projects_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
-  <div class="grid">
+  <!-- <div class="grid"> -->
     {% for project in sorted_projects %}
       {% include projects.liquid %}
     {% endfor %}
-  </div>
+  <!-- </div> -->
   {% endif %}
   {% endfor %}
 
