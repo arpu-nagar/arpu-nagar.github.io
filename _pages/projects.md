@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Projects
+title: projects
 permalink: /projects/
 description: My philosophy of work centers on the development of core ideas and their transformation into tangible, real-world applications.
 nav: true
 nav_order: 2
 display_categories: [research, tech]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
