@@ -8,10 +8,8 @@ middle_name:
 last_name: Nagar
 email: arpannagar@ufl.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  I'm Arpan Nagar, a graduate student at the University of Florida. I like talking about AI, tech, coffee and travel.
-footer_text: >
-  Arpan Nagar
-keywords: arpan, arpan-nagar, arpunagar, uf, florida, manipal, oracle, computer, science, arpu-nagar, nagar # add your own keywords or leave empty
+  Arpan Nagar is a Software Engineer at Tesla, working on enhancing the Digital Experience for Tesla customer and fans. He hold a MS in Computer Science from the University of Florida and a BTech in Computer Science from Manipal Institute of Technology (MIT). He loves talking and debating on AI, technology and coffee.
+keywords: arpan, arpan-nagar, arpunagar, tesla, uf, florida, manipal, oracle, computer, science, arpu-nagar, nagar # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: AN # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -71,7 +69,7 @@ x_username: arpunagar # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: arpan-nagar-231815152 # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: 9J8c9qoAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
